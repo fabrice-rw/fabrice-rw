@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fabrice-rw
+- 👋 Hi, I’m Fabrice NZAYISENGA
 - 👀 I’m interested in web development right now
 - 🌱 I’m currently learning Front-end Languages
 - 💞️ I’m looking to collaborate on front-end projects
