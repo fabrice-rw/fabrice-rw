@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fabrice NZAYISENGA
 - 👀 I’m interested in web development right now
-- 🌱 I’m currently learning Front-end Languages
-- 💞️ I’m looking to collaborate on front-end projects
+- 🌱 I’m currently learning back-end
+- 💞️ I’m looking to collaborate on back-end projects
 - 📫 Reach me at fabricenzayisenga@gmail.com 
 
 <!---
