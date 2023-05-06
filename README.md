@@ -13,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Kigali, Rwanda
 * 🧠  I'm currently learning **MERN, Typescript**
 * 🤝  I'm open to collaborating on Backend Projects
-* ⚡  Coding to learn is better than learning to code
+* ⚡  **Coding to learn is better than learning to code**
 
 ---
 
