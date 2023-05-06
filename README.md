@@ -8,6 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p> My passion lies in creating innovative applications that can solve real-world problems. I thrive in collaborative team environments and enjoy working closely with cross-functional teams to deliver high-quality work. As a developer, I'm committed to staying up-to-date with the latest technologies and techniques in software development through continuous learning and growth.</p>
 
+<br/>
 
 * 🌍  I'm based in Kigali, Rwanda
 * 🧠  I'm currently learning **MERN, Typescript**
