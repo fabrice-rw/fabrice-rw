@@ -52,11 +52,3 @@ src="https://img.shields.io/twitter/follow/zefab_?logo=twitter&style=for-the-bad
 <br/>
 
 
-### My GitHub Stats
-<br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabrice-rw&show_icons=true&locale=en&layout=compact" alt="fabrice-rw" /></p>
-
-</a> <a href="http://www.github.com/fabrice-rw"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fabrice-rw&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/fabrice-rw"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=fabrice-rw&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
