@@ -1,18 +1,16 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=900&color=0891b2&width=435&height=100&lines=Software-Developer)
 
 
-Hi There![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Fabrice!
+Hi There![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Fabrice!
 ===============================================================================================================================
 
 
 
-<p> My passion lies in creating innovative applications that can solve real-world problems. I thrive in collaborative team environments and enjoy working closely with cross-functional teams to deliver high-quality work. As a developer, I'm committed to staying up-to-date with the latest technologies and techniques in software development through continuous learning and growth.</p>
+<p> My passion lies in creating innovative applications that can solve real-world problems. I thrive in collaborative team environments and enjoy working closely with cross-functional teams to deliver high-quality work. As a developer.</p>
 
 <br/>
 
 * 🌍  I'm based in Kigali, Rwanda
-* 🧠  I'm currently learning **MERN, Typescript**
-* 🤝  I'm open to collaborating on Backend Projects
 * ⚡  **Coding to learn is better than learning to code**
 
 ---
